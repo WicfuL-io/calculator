@@ -1,0 +1,13 @@
+
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Calculator - Dart",
+      "type": "dart",
+      "request": "launch",
+      "program": "${workspaceFolder}/main.dart",
+      "console": "terminal"
+    }
+  ]
+}
